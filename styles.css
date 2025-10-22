@@ -35,7 +35,7 @@ h1 {
 }
 
 .categoria{
-    padding_left:20px;
+    padding-left:20px;
     padding-right: 20px;
 }
 
@@ -46,4 +46,8 @@ h1 {
 .categoria-videos img:hover {
     opacity: 1.0;
     border: 1px solid green;
+}
+
+.categoria h2 {
+    color:
 }
